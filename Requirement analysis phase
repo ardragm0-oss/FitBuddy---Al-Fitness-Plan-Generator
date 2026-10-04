@@ -1,0 +1,87 @@
+### FitBuddy – AI Fitness Plan Generator Using Gemini Models
+
+### Requirement Analysis Phase
+
+### 1\. Introduction
+
+The requirement analysis phase identifies the needs, features, and specifications of the FitBuddy application. It defines how the system works and what users expect from it.
+
+### 2\. Functional Requirements
+
+Functional requirements describe the main features of the application.
+
+* User Registration: Users can create an account and log in.
+
+* User Profile: Collect user details such as age, weight, fitness level, and goals.
+
+* AI Fitness Plan Generator: Generate personalized fitness plans using Gemini models.
+
+* Workout Recommendations: Suggest exercises based on users' fitness levels.
+
+* Diet Suggestions: Provide basic diet and nutrition recommendations.
+
+* Progress Tracking: Monitor users' fitness progress.
+
+* AI Chatbot: Answer fitness-related questions.
+
+### 3\. Non-Functional Requirements
+
+Non-functional requirements describe the quality and performance of the system.
+
+* Usability: The application should be simple and easy to use.
+
+* Performance: Generate fitness plans quickly.
+
+* Security: Protect users' personal information.
+
+* Reliability: Provide consistent and accurate results.
+
+* Scalability: Support more users in the future.
+
+* Compatibility: Work smoothly on different devices.
+
+### 4\. Hardware Requirements
+
+* Smartphone, laptop, or desktop computer.
+
+* Minimum 4 GB RAM.
+
+* Internet connection.
+
+* Modern processor.
+
+### 5\. Software Requirements
+
+* Frontend: HTML, CSS, JavaScript.
+
+* Backend: Python or Node.js.
+
+* AI Model: Google Gemini API.
+
+* Database: Firebase or MySQL.
+
+* Platform: Web browser or mobile application.
+
+* Operating System: Windows, Android, or Linux.
+
+### 6\. User Requirements
+
+* Easy registration and login.
+
+* Personalized workout plans.
+
+* Simple diet recommendations.
+
+* Daily fitness guidance.
+
+* Ability to track fitness progress.
+
+* Quick responses from the AI system.
+
+### 7\. System Requirements
+
+The system should collect user information, process the details using Gemini models, generate personalized fitness plans, and display suitable recommendations. It should also allow users to save and track their progress.
+
+### 8\. Conclusion
+
+The requirement analysis phase helps identify the essential features and technical needs of FitBuddy. These requirements provide a foundation for designing and developing an effective AI-powered fitness planning application.
