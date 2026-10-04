@@ -1,0 +1,89 @@
+### FitBuddy – AI Fitness Plan Generator Using Gemini Models
+
+### Project Design Phase
+
+### 1\. Introduction
+
+The project design phase explains the structure, layout, and working process of the FitBuddy application. It describes how the system is designed to generate personalized fitness plans using Google Gemini models.
+
+### 2\. System Architecture
+
+The system consists of three main components:
+
+* Frontend: Provides a user-friendly interface for entering personal details and viewing fitness plans.
+
+* Backend: Processes user information and connects the application to the Gemini API.
+
+* AI Model: Uses Google Gemini to generate personalized workout plans and fitness suggestions.
+
+### 3\. Database Design
+
+The database stores important user information and fitness details.
+
+* User Details: Name, age, gender, weight, and height.
+
+* Fitness Goals: Weight loss, muscle building, or general fitness.
+
+* Workout Plans: Daily exercises and workout schedules.
+
+* Progress Records: User activity and fitness progress.
+
+### 4\. User Interface Design
+
+The application includes the following main screens:
+
+* Login Page: Allows users to log in to the application.
+
+* Home Page: Displays the main features of FitBuddy.
+
+* Profile Page: Collects personal information and fitness goals.
+
+* Fitness Plan Page: Shows AI-generated workout plans.
+
+* Progress Page: Displays fitness progress and achievements.
+
+* Chatbot Page: Allows users to ask fitness-related questions.
+
+### 5\. System Workflow
+
+* The user opens the FitBuddy application.
+
+* The user enters personal details and fitness goals.
+
+* The system collects and processes the information.
+
+* The Gemini model analyzes the user's requirements.
+
+* The AI generates a personalized fitness plan.
+
+* The application displays the recommended plan.
+
+* The user follows the plan and tracks progress.
+
+### 6\. Technology Design
+
+* Frontend: HTML, CSS, JavaScript.
+
+* Backend: Python or Node.js.
+
+* AI Integration: Google Gemini API.
+
+* Database: Firebase or MySQL.
+
+* Platform: Web or mobile application.
+
+### 7\. Security Design
+
+* Protect user information.
+
+* Provide secure login and authentication.
+
+* Use secure API connections.
+
+* Avoid sharing personal data unnecessarily.
+
+* Include safety guidelines for AI-generated fitness recommendations.
+
+### 8\. Conclusion
+
+The project design phase provides a clear structure for developing FitBuddy. It defines the system architecture, database, user interface, workflow, and technologies required to build an AI-powered fitness plan generator using Gemini models.
