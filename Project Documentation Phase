@@ -1,0 +1,81 @@
+### FitBuddy – AI Fitness Plan Generator Using Gemini Models
+
+### Project Documentation Phase
+
+### 1\. Introduction
+
+The project documentation phase involves preparing detailed information about the FitBuddy application. It explains the system's features, design, development, testing, and overall functionality.
+
+### 2\. Objectives of Documentation
+
+* Provide a clear description of the project.
+
+* Explain the system architecture and workflow.
+
+* Document the technologies and tools used.
+
+* Describe the application features and functions.
+
+* Help future developers maintain and improve the system.
+
+### 3\. Types of Documentation
+
+* Requirement Documentation: Describes the functional and non-functional requirements of the application.
+
+* Design Documentation: Explains the system architecture, database design, and user interface.
+
+* Technical Documentation: Provides details about the programming languages, Gemini API integration, and database.
+
+* User Documentation: Explains how users can register, generate fitness plans, and track progress.
+
+* Testing Documentation: Includes test cases, testing methods, and identified errors.
+
+### 4\. Project Documentation Structure
+
+The FitBuddy project report includes the following sections:
+
+* Introduction: Overview and purpose of the project.
+
+* Problem Statement: Fitness-related problems faced by users.
+
+* Objectives: Main goals of the application.
+
+* Requirement Analysis: Hardware, software, and system requirements.
+
+* System Design: Architecture, database, and interface design.
+
+* Project Development: Frontend, backend, and Gemini AI integration.
+
+* Testing: Testing methods and results.
+
+* Implementation: Explanation of the completed application.
+
+* Conclusion: Summary and achievements of the project.
+
+* Future Enhancements: Possible improvements and additional features.
+
+### 5\. Tools Used for Documentation
+
+* Microsoft Word: Preparing the project report.
+
+* Draw.io: Creating system architecture and flowcharts.
+
+* Visual Studio Code: Managing and documenting source code.
+
+* Screenshots: Showing application pages and working features.
+
+### 6\. Benefits of Documentation
+
+* Makes the project easy to understand.
+
+* Helps identify system requirements.
+
+* Simplifies future maintenance.
+
+* Supports future development.
+
+* Provides a complete record of the project.
+
+### 7\. Conclusion
+
+The project documentation phase provides a complete record of the FitBuddy application, including its planning, design, development, and testing. Proper documentation makes the project easier to understand, maintain, and improve in the future.
