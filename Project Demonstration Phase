@@ -1,0 +1,78 @@
+FitBuddy – AI Fitness Plan Generator Using Gemini Models
+
+Project Demonstration Phase
+
+1. Introduction
+
+The project demonstration phase presents the working model of the FitBuddy application. It explains the main features, functionality, and working process of the AI-powered fitness plan generator.
+
+2. Objectives of Demonstration
+
+Demonstrate the main features of the application.
+
+Show how Gemini AI generates personalized fitness plans.
+
+Explain the user interface and system workflow.
+
+Display the results and benefits of the application.
+
+
+3. Demonstration Process
+
+Step 1: User Login: The user logs in to the FitBuddy application.
+
+Step 2: Profile Creation: The user enters personal details such as age, weight, fitness level, and fitness goals.
+
+Step 3: Goal Selection: The user selects goals such as weight loss, muscle building, or general fitness.
+
+Step 4: AI Fitness Plan Generation: Gemini AI processes the information and generates a personalized workout plan.
+
+Step 5: Display Results: The application displays the recommended exercises, workout schedules, and general diet suggestions.
+
+Step 6: Progress Tracking: The user can record daily activities and monitor fitness progress.
+
+
+4. Main Features Demonstrated
+
+User registration and login.
+
+Personalized fitness plan generation.
+
+AI-based workout recommendations.
+
+General diet and nutrition suggestions.
+
+AI chatbot for fitness-related questions.
+
+Fitness progress tracking.
+
+
+5. Expected Demonstration Results
+
+Successful user login and profile creation.
+
+Proper connection with the Gemini API.
+
+Generation of relevant fitness plans.
+
+Smooth navigation between application pages.
+
+Clear display of fitness recommendations.
+
+
+6. Benefits of Demonstration
+
+Helps users understand the application.
+
+Shows the practical use of Gemini AI.
+
+Highlights the major features of FitBuddy.
+
+Helps identify areas for improvement.
+
+Demonstrates the usefulness of AI in fitness planning.
+
+
+7. Conclusion
+
+The project demonstration phase showcases the working features and practical applications of FitBuddy. It explains how Gemini AI helps generate personalized fitness plans and provides users with simple and accessible fitness guidance.
